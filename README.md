@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá! Me chamo Matheus Karnas, sou dev. Front-end e aqui você pode ver um pouco do meu trabalho.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuskarnas&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskarnas&layout=compact&theme=tokyonight)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheuskarnas&repo=github-readme)](https://github.com/matheuskarnas/disney-api)
+
 
 <!--
 **matheuskarnas/matheuskarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
